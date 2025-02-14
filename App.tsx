@@ -88,7 +88,6 @@ function App(): React.JSX.Element {
           </Section>
           <Section title="Learn More">
             Read the docs to discover what to do next:
-            illa
           </Section>
           <LearnMoreLinks />
         </View>
